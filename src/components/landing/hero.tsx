@@ -24,7 +24,7 @@ export function Hero() {
           Put automations & agents to work for important stuff in your life.
         </p>
         <div className="mt-8">
-          <Button size="lg" className="shadow-lg text-lg sm:text-xl md:text-2xl font-semibold text-white px-6 sm:px-8" style={{ backgroundColor: "#6F5CFF" }} >
+          <Button size="lg" className="shadow-lg text-lg sm:text-xl md:text-2xl font-semibold text-white px-6 sm:px-8 hover:font-bold hover:bg-[#5a59de]" style={{ backgroundColor: "#6F5CFF" }} >
             Sign up for the waitlist &rarr;
           </Button>
         </div>
