@@ -89,7 +89,7 @@ export function Chatbot() {
           <CardHeader className="bg-[#F9F7FE] py-4">
             <CardTitle className="flex items-center justify-center gap-2 text-xl font-bold text-[#6F5CFF]">
               <MessageSquare />
-              Oto.do Assistant
+              oto.do Assistant
             </CardTitle>
           </CardHeader>
           <CardContent
