@@ -17,7 +17,7 @@ export default {
     },
     extend: {
       width: {
-        '2/5': '50%',
+        '2/5': '55%',
       },
       fontFamily: {
         body: ['Poppins'],
